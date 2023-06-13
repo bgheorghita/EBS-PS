@@ -1,0 +1,1 @@
+Subscription {(city,=,a);(avg_temp,<,1000)}

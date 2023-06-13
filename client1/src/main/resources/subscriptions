@@ -1,0 +1,8 @@
+Subscription {(city,=,od);(temp,=,-36);(wind,>,77)}
+Subscription {(city,=,ak);(temp,=,-29);(wind,>,45)}
+Subscription {(city,=,hn);(temp,=,-3);(wind,>,3)}
+Subscription {(city,=,at);(temp,=,-17);(wind,>=,70)}
+Subscription {(city,=,jp);(temp,=,-7);(wind,<,75)}
+Subscription {(city,=,z);(temp,=,-31);(wind,<,37)}
+Subscription {(city,=,dp);(temp,=,21);(wind,>=,1)}
+Subscription {(city,=,ce);(temp,=,-4);(wind,!=,82)}

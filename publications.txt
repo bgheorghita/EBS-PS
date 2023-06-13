@@ -1,0 +1,1 @@
+Publication: {(stationId,5);(city,b);(temp,-1);(rain,95.75);(wind,62);(direction,NE);(date,19.11.2023)}
